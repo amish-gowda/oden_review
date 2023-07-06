@@ -1,3 +1,3 @@
 # oden_review
 
-![Click here]{https://choman-krishna.github.io/oden_review/index.html}
+![Click here]{https://choman-krishna.github.io/oden_review/}
